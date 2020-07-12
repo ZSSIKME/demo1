@@ -2,4 +2,10 @@ sdfaweqwfalfk
 spz
 spz
 spz
+<<<<<<< HEAD
 aaasd
+=======
+spz
+spz
+spz1
+>>>>>>> v1
